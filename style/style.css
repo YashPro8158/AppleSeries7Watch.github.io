@@ -872,4 +872,24 @@ header .header-container .left-content a:nth-child(2):hover {
     header .header-container .left-content p {
         width: 250px;
     }
+    .watchmaterial .material-container img {
+        width: 100%;
+        margin-left: -100px;
+        margin-bottom: 30px;
+    }
+    .Watchfeatures .features-container .bottom-contents h1 {
+        font-size: 2rem;
+    }
+    .Watchfeatures .features-container .bottom-contents {
+        height: auto;
+    }
+    .activity .ac-container .bottom-three .ring-watch {
+        width: 100%;
+    }
+    .activity .ac-container .bottom-three .sharing-watch {
+        width: 100%;
+    }
+    .activity .ac-container .bottom-three .competition-watch {
+        width: 100%;
+    }
 }
